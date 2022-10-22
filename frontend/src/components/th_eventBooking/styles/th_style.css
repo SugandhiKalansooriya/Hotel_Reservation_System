@@ -1,0 +1,266 @@
+
+
+@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+
+
+  /*Thamodi css*/
+
+  #headerpart {
+	background: url(../../../../public/assets/th_imgs/eventhomebackground.jpg) no-repeat center top;
+	margin-top: -70px;
+	padding-top: 150px;
+	text-align:center;
+	background-attachment: relative;
+	background-position: center center;
+	min-height: 500px;
+	width: 100%;
+	
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+  #headerpart h1 {
+	color:#ffffff;
+	padding-top: 10px;
+	letter-spacing: 4px;
+	font-size: 70px;
+	font-weight: bold;
+}
+
+  #headerpart h3 {
+	color: #000;;
+  text-align: center;
+	letter-spacing: 1px;
+	font-size: 30px;
+	font-weight: bold;
+  
+}
+
+#headerpart button{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: large;
+    font-family: sans-serif;
+    margin-left: 5px;
+}
+
+.introContent{
+    background-color: #262626;
+    text-decoration: none;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
+    text-align: justify;
+}
+
+.th_col {
+    float: left;
+    width: 33.33%;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+  }
+  
+  /* Clearfix (clear floats) */
+  .th_row gx-8::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+  .th_introBtn {
+    cursor: pointer;
+    border: 1px solid #ffffff;
+    background-color: transparent;
+    height: 50px;
+    width: 200px;
+    border-radius: 4px;
+    color: #f2f2f2;
+    font-size: 20px;
+    box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6);
+    margin-left: 80px;
+  }
+
+  #headerpart2 {
+	background: url(../../../../public/assets/th_imgs/weddinghallbackground.jpg) no-repeat center top;
+	margin-top: -70px;
+  
+	padding-top: 150px;
+	text-align: center;
+	background-attachment: relative;
+	background-position: center center;
+	min-height: 400px;
+	width: 100%;
+	
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+  #headerpart2 h1 {
+	color:#ffffff;
+	padding-top: 10px;
+	padding-bottom: 30px;
+	letter-spacing: 4px;
+	font-size: 70px;
+	font-weight: bold;
+}
+
+#headerpart2 button{
+    margin-right: 280px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: large;
+    font-family: sans-serif;
+}
+
+.weddingcontent {
+  font-size: large;
+  text-align: center;
+  font-weight: bold;
+  line-height: 0.4;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.reservationBtn button{
+  background-color: #0c0b0c;
+  color: #ffffff;
+  border-radius: 8px;
+  font-size: larger;
+  cursor: pointer;
+  height: 50px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-left: 680px;
+  margin-bottom: 5px;
+}
+
+.reservationBtn button:hover {
+  background-color: #6d5e6d;
+  color: #000;
+}
+
+#headerpart3 {
+	background: url(../../../../public/assets/th_imgs/outdoorfunctionbackground.jpg) no-repeat center top;
+	margin-top: -70px;
+  
+	padding-top: 150px;
+	text-align: center;
+	background-attachment: relative;
+	background-position: center center;
+	min-height: 400px;
+	width: 100%;
+	
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+  #headerpart3 h1 {
+	color:#ffffff;
+	padding-top: 10px;
+	padding-bottom: 30px;
+	letter-spacing: 4px;
+	font-size: 70px;
+	font-weight: bold;
+}
+
+#headerpart3 button{
+    margin-right: 280px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: large;
+    font-family: sans-serif;
+}
+
+.outdoorcontent {
+  font-size: large;
+  text-align: center;
+  font-weight: bold;
+  line-height: 0.4;
+}
+
+#headerpart4 {
+	background: url(../../../../public/assets/th_imgs/outdoorfunctionbackground.jpg) no-repeat center top;
+	margin-top: -70px;
+  
+	padding-top: 150px;
+	text-align: center;
+	background-attachment: relative;
+	background-position: center center;
+	min-height: 400px;
+	width: 100%;
+	
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+  #headerpart4 h1 {
+	color:#ffffff;
+	padding-top: 10px;
+	padding-bottom: 30px;
+	letter-spacing: 4px;
+	font-size: 70px;
+	font-weight: bold;
+}
+
+#headerpart4 button{
+    margin-right: 280px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: large;
+    font-family: sans-serif;
+}
+
+.specialcontent {
+  font-size: large;
+  text-align: center;
+  font-weight: bold;
+  line-height: 0.4;
+}
+
+.thformContent{
+   background: url("https://www.toptal.com/designers/subtlepatterns/uploads/spikes.png") ;
+}
